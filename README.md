@@ -7,12 +7,9 @@ A self motivated software engineer with experience in managing projects. 🔥 �
 
 - 🚀 I’m currently a project manager at **[Codebility](https://codebility.tech)**
 
+- 👨‍💻 All of my projects completed in private
 
-- 🚀 I’m currently working on my own framework and boilerplate
-
-- 🚀 All of my projects completed in private
-
-- 🚀 2025 Goals: **Focus more on collaboration and network**
+- 🎯 2025 Goals: **Focus more on collaboration and network**
 
 - 📄 Learn more: **https://jaymelendrez.tech?utm_source=github&utm_medium=portfolio**
 
