@@ -42,6 +42,7 @@ A self motivated software engineer with experience in managing projects. 🔥 �
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,prisma,sequelize,ipfs,nginx,cloudflare,workers,linux,babel,jest,postman,kafka,nodejs,npm,yarn,pnpm,jquery,cmake,bash,vscode,autocad,aws,figma,matlab,maven,terraform,threejs,webpack,materialui,grafana,gcp">
 </p>
 
-<h2 align="center">Get to Know Me</h2>
-<h6 align="center">https://jaymelendrez.tech?utm_source=github&utm_medium=portfolio</h6>
+<h2 align="center">🔥 Get to Know Me 🔥</h2>
+<h3 align="center">👇👇👇</h3>
+<h5 align="center">https://jaymelendrez.tech?utm_source=github&utm_medium=portfolio</h5>
 
