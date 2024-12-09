@@ -14,7 +14,7 @@ A self motivated software engineer with experience in managing projects. 🔥 �
 
 - 🚀 2025 Goals: **Focus more on collaboration and network**
 
-- 📄 Learn more: **https://jaymelendrez.tech/**
+- 📄 Learn more: **https://jaymelendrez.tech?utm_source=github&utm_medium=portfolio**
 
 
 <h3 align="left">Languages:</h3>
