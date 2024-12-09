@@ -47,8 +47,3 @@ A self motivated software engineer with experience in managing projects. ğŸ”¥ ğŸ
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,prisma,sequelize,ipfs,nginx,cloudflare,workers,linux,babel,jest,postman,kafka,nodejs,npm,yarn,pnpm,jquery,cmake,bash,vscode,autocad,aws,figma,matlab,maven,terraform,threejs,webpack,materialui,grafana,gcp">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
