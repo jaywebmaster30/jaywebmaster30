@@ -1,5 +1,4 @@
-<img src="github-banner.png" alt="GitHub Banner" width="100%" />
-
+<img src="github-banner-2.png" alt="GitHub Banner" width="100%" />
 # Hello, I'm Jay, a self taught Web Developer 👋
 
 A self motivated software engineer with experience in managing projects. 🔥 🚀
@@ -37,7 +36,7 @@ A self motivated software engineer with experience in managing projects. 🔥 �
 <img src="https://skillicons.dev/icons?i=discordjs,pytorch,tensorflow" alt="Albert">
 </p>
 
-<h3 align="left">Database:</h3>
+<h3 align="left">Databases:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,dynamodb,postgres,mongo,sqlite,redis" alt="Layda">
 </p>
