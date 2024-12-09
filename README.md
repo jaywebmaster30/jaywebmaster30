@@ -11,8 +11,6 @@ A self motivated software engineer with experience in managing projects. 🔥 �
 
 - 🎯 2025 Goals: **Focus more on collaboration and network**
 
-- 📄 Learn more: **https://jaymelendrez.tech?utm_source=github&utm_medium=portfolio**
-
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -43,4 +41,7 @@ A self motivated software engineer with experience in managing projects. 🔥 �
 <p align="left">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,prisma,sequelize,ipfs,nginx,cloudflare,workers,linux,babel,jest,postman,kafka,nodejs,npm,yarn,pnpm,jquery,cmake,bash,vscode,autocad,aws,figma,matlab,maven,terraform,threejs,webpack,materialui,grafana,gcp">
 </p>
+
+<h3 align="center">Get to Know Me</h3>
+<h2 align="center">https://jaymelendrez.tech?utm_source=github&utm_medium=portfolio</h2>
 
