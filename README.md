@@ -1,5 +1,6 @@
 <img src="github-banner-2.png" alt="GitHub Banner" width="100%" />
-# Hello, I'm Jay, a self taught Web Developer 👋
+
+<h2 align="left">Hello, I'm Jay, a self taught Web Developer 👋</h2>
 
 A self motivated software engineer with experience in managing projects. 🔥 🚀
 
