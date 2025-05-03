@@ -5,7 +5,7 @@
 A self motivated software engineer with experience in managing projects. 🔥 🚀
 
 
-- 🚀 I’m currently a project manager at **[Socia PH](https://socia.ph)**
+- 🚀 Founder and Lead Developer at **[Socia PH](https://socia.ph)**
 
 - 👨‍💻 All of my projects completed in private
 
