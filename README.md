@@ -9,7 +9,9 @@ A self motivated software engineer with experience in managing projects. 🔥 �
 
 - 👨‍💻 All of my projects completed in private
 
-- 🎯 2025 Goals: **Focus more on collaboration and network**
+- 🎯 2025 Goals: 👇👇
+
+<h3 align="center">I am on a mission to digitalize processes by transforming traditional workflows into efficient, automated, and scalable digital solutions. My goal is to empower businesses and communities through technology—streamlining operations, enhancing productivity and effiency.</h3>
 
 <h2 align="left">Get to Know Me</h2>
 <h5 align="left">https://jaymelendrez.tech?utm_source=github&utm_medium=portfolio</h5>
